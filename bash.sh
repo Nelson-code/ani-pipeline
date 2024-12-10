@@ -1,0 +1,1 @@
+python C:\Users\Nelson\Desktop\C rep\dags\etl.py
